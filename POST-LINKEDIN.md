@@ -8,7 +8,7 @@ Stack: Next.js 14 + Supabase (RLS) + Evolution API + Vercel. R$38/mês de custo,
 
 Busco 3 barbearias beta: 14 dias grátis + setup grátis essa semana.
 
-Repo público com schema SQL, cron de lembretes e webhook Asaas: [COLE SEU LINK GITHUB AQUI]
+Repo público com schema SQL, cron de lembretes e webhook Asaas: https://github.com/Augustodevv/antifalta
 
 Quem conhece dono de barbearia/salão? Me apresenta no DM.
 
