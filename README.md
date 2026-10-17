@@ -1,4 +1,6 @@
 # Anti-falta WhatsApp — Micro-SaaS barbearias
+
+> **Status:** MVP em desenvolvimento. O uso real depende de contratar as integrações externas (Evolution API para WhatsApp e Asaas para cobrança).
 MVP: agenda + lembrete 24h/2h + painel faltas. Stack: Next.js 14 + Supabase + Evolution API + Vercel.
 
 ## 1. Rodar local (5 min)
